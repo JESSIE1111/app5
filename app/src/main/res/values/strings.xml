@@ -1,0 +1,12 @@
+<resources>
+    //布局xml中的text需要在此文件中注册才能使用
+    <string name="app_name">app5</string>
+    <string name="input_RMB">input_RMB</string>
+    <string name="message">message</string>
+    <string name="dollar">dollar</string>
+    <string name="euro">euro</string>
+    <string name="won">won</string>
+    <string name="btn_config_label">config</string>
+    <string name="btn_save_label">save</string>
+
+</resources>
