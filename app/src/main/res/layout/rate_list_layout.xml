@@ -4,9 +4,9 @@
 
 
     android:layout_height="match_parent">
-    <GridView
+
         android:numColumns="3"
-        android:columnWidth="100dp"/>
+        android:columnWidth="100dp"
 
     <ListView
         android:layout_width="match_parent"
